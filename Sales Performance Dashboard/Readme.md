@@ -49,6 +49,10 @@ The dataset was provided internally and includes sales records containing the fo
 
 Data was imported and cleaned using **Power Query** in **Excel**.
 
+
+### 📌 Dataset Preview
+![Dataset Preview](https://github.com/AkinsDiaries/Excel-Projects/blob/main/Sales%20Performance%20Dashboard/DATA.png)
+
 ---
 
 ## 🔧 Methodology  
@@ -72,6 +76,9 @@ Data was imported and cleaned using **Power Query** in **Excel**.
 ---
 
 ## 📊 Analysis  
+
+### 📈 Sales Analysis Section
+![Sales Analysis](https://github.com/AkinsDiaries/Excel-Projects/blob/main/Sales%20Performance%20Dashboard/ANALYSIS.png)
 
 ### 📌 Key Performance Indicators (KPIs)
 - **Sales Source**  
@@ -97,11 +104,8 @@ Data was imported and cleaned using **Power Query** in **Excel**.
 ## 📈 Dashboard Visualization  
 The dashboard design includes:
 
-- **KPI Cards**: Summarizing revenue, boxes, and product counts  
-- **Top Performer Charts**: Highlighting best sales reps and products  
-- **Revenue Breakdown Visuals**: By category, region, and location  
-- **Interactive Slicers**: Filter views by Team and Product Category  
-- **Consistent Styling**: Color-coded categories, readable fonts, and tooltips
+### 📊 Sales Performance Dashboard
+![Dashboard Overview](https://github.com/AkinsDiaries/Excel-Projects/blob/main/Sales%20Performance%20Dashboard/DASHBOARD.png)
 
 ---
 
